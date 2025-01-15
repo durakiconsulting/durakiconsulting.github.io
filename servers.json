@@ -2,7 +2,7 @@
     "servers": [
         {
             "name": "durakiconsulting",
-            "address": "https://dc-sidestore-anisette-v3-srv.onrender.com/"
+            "address": "http://172.105.93.196:6969"
         }
     ]
 }
