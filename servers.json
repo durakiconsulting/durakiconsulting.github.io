@@ -1,0 +1,9 @@
+{
+    "servers": [
+        {
+            "name": "durakiconsulting",
+            "address": "https://dc-sidestore-anisette-v3-srv.onrender.com/"
+        }
+    ]
+}
+
